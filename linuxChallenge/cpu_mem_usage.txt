@@ -1,0 +1,46 @@
+top - 18:40:01 up 52 min,  1 user,  load average: 0.08, 0.02, 0.00
+Tasks:  39 total,   1 running,  38 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   7783.1 total,   6394.0 free,    630.3 used,    954.2 buff/cache     
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   7152.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+      1 root      20   0   24596  15320  11356 S   0.0   0.2   0:01.36 systemd
+      2 root      20   0    3172   2212   2072 S   0.0   0.0   0:00.00 init-sy+
+      6 root      20   0    3220   2156   2008 S   0.0   0.0   0:00.17 init
+     46 root      19  -1   66780  20324  18956 S   0.0   0.3   0:00.44 systemd+
+     83 systemd+  20   0   22416  14108  11632 S   0.0   0.2   0:00.15 systemd+
+     91 root      20   0   35196  12044   8972 S   0.0   0.2   0:00.49 systemd+
+    154 root      20   0    2880   1972   1848 S   0.0   0.0   0:00.08 chronyd+
+    155 root      20   0    4464   3096   2852 S   0.0   0.0   0:00.02 cron
+    157 message+  20   0    8780   5268   4592 S   0.0   0.1   0:00.14 dbus-da+
+    163 root      20   0   44096  29452  14312 S   0.0   0.4   0:00.46 network+
+    173 root      20   0   18576   9380   8100 S   0.0   0.1   0:00.24 systemd+
+    206 syslog    20   0  220532   5792   4508 S   0.0   0.1   0:00.17 rsyslogd
+    217 root      20   0   14860   2244    764 S   0.0   0.0   0:00.01 nginx
+    222 www-data  20   0   16900   5096   3244 S   0.0   0.1   0:00.00 nginx
+    223 www-data  20   0   16900   5096   3244 S   0.0   0.1   0:00.00 nginx
+    224 www-data  20   0   16900   5092   3240 S   0.0   0.1   0:00.00 nginx
+    226 www-data  20   0   16900   5096   3244 S   0.0   0.1   0:00.00 nginx
+    227 www-data  20   0   16900   5096   3244 S   0.0   0.1   0:00.00 nginx
+    228 www-data  20   0   16900   5096   3244 S   0.0   0.1   0:00.00 nginx
+    230 www-data  20   0   16900   5096   3244 S   0.0   0.1   0:00.00 nginx
+    231 www-data  20   0   16900   5096   3244 S   0.0   0.1   0:00.00 nginx
+    232 www-data  20   0   16900   5096   3244 S   0.0   0.1   0:00.00 nginx
+    233 www-data  20   0   16900   5096   3244 S   0.0   0.1   0:00.00 nginx
+    234 www-data  20   0   16900   5096   3244 S   0.0   0.1   0:00.00 nginx
+    235 www-data  20   0   16900   5032   3180 S   0.0   0.1   0:00.00 nginx
+    247 _chrony   20   0   23776  11100   7004 S   0.0   0.1   0:00.18 chronyd
+    253 _chrony   20   0   12080   2408   1768 S   0.0   0.0   0:00.00 chronyd
+    320 root      20   0  123460  32388  17792 S   0.0   0.4   0:00.41 unatten+
+    325 root      20   0 2311448  48756  33480 S   0.0   0.6   0:07.80 contain+
+    330 root      20   0    5484   2760   2576 S   0.0   0.0   0:00.01 agetty
+    367 root      20   0 2350700  78576  55804 S   0.0   1.0   0:01.26 dockerd
+    616 root      20   0    3176   1116    980 S   0.0   0.0   0:00.00 Session+
+    617 root      20   0    3192   1252   1108 S   0.0   0.0   0:00.73 Relay(6+
+    618 faddu     20   0   13420  10352   6704 S   0.0   0.1   0:21.76 zsh
+    619 root      20   0    8628   5516   4684 S   0.0   0.1   0:00.01 login
+    662 faddu     20   0   22328  13344  10732 S   0.0   0.2   0:00.15 systemd
+    664 faddu     20   0   22904   4100   2100 S   0.0   0.1   0:00.00 (sd-pam)
+    694 faddu     20   0    7492   5696   4356 S   0.0   0.1   0:00.03 zsh
+   8613 faddu     20   0    8156   5468   3464 R   0.0   0.1   0:00.00 top
