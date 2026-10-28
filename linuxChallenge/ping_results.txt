@@ -1,0 +1,8 @@
+PING google.com (142.250.205.142) 56(84) bytes of data.
+64 bytes from pnmaaa-aw-in-f14.1e100.net (142.250.205.142): icmp_seq=1 ttl=116 time=15.8 ms
+64 bytes from pnmaaa-aw-in-f14.1e100.net (142.250.205.142): icmp_seq=2 ttl=116 time=17.0 ms
+64 bytes from pnmaaa-aw-in-f14.1e100.net (142.250.205.142): icmp_seq=3 ttl=116 time=15.1 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 15.127/15.954/16.984/0.771 ms
