@@ -1,0 +1,28 @@
+Wed Oct 28 19:37:23 UTC 2026
+CPU Usage:
+%Cpu(s):  0.0 us,  1.4 sy,  0.0 ni, 97.9 id,  0.7 wa,  0.0 hi,  0.0 si,  0.0 st 
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       650Mi       6.5Gi       4.0Mi       627Mi       7.0Gi
+Swap:          2.0Gi          0B       2.0Gi
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/6.6.114.1-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         238G  170G   68G  72% /usr/lib/wsl/drivers
+/dev/sdd       1007G   19G  938G   2% /
+none            3.9G   40K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.8G  2.8M  3.8G   1% /init
+none            3.9G  568K  3.8G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+none            3.9G   80K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   80K  3.9G   1% /mnt/wslg/doc
+C:\             238G  170G   68G  72% /mnt/c
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           3.9G  476K  3.8G   1% /tmp
+none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none            1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           779M   12K  779M   1% /run/user/1000
+------------------------------
